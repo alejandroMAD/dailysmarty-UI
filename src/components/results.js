@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import Logo from "./logo";
 
 class Results extends Component {
@@ -11,5 +11,4 @@ class Results extends Component {
     );
   }
 }
-
 export default Results;
